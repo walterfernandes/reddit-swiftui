@@ -1,0 +1,9 @@
+swiftlint_version: 0.40.0
+excluded:
+  - Pods
+  - redditTests/Mocks/GeneratedMocks.swift
+identifier_name:
+  min_length: 
+    error: 3
+  excluded:
+    - id

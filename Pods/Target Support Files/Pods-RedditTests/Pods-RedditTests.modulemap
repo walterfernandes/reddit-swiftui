@@ -1,0 +1,6 @@
+module Pods_RedditTests {
+  umbrella header "Pods-RedditTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

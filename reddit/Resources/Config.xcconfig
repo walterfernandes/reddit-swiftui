@@ -1,0 +1,2 @@
+SLASH = /
+SERVICE_BASE_URL = https:$(SLASH)/www.reddit.com

@@ -1,0 +1,46 @@
+PODS:
+  - Cuckoo (1.4.1):
+    - Cuckoo/Swift (= 1.4.1)
+  - Cuckoo/Swift (1.4.1)
+  - Nimble (8.1.1)
+  - OHHTTPStubs/Core (9.0.0)
+  - OHHTTPStubs/Default (9.0.0):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (9.0.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (9.0.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (9.0.0)
+  - OHHTTPStubs/Swift (9.0.0):
+    - OHHTTPStubs/Default
+  - Quick (3.0.0)
+  - SwiftLint (0.40.0)
+
+DEPENDENCIES:
+  - Cuckoo (= 1.4.1)
+  - Nimble (= 8.1.1)
+  - OHHTTPStubs/Swift (= 9.0.0)
+  - Quick (= 3.0.0)
+  - SwiftLint (= 0.40.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Cuckoo
+    - Nimble
+    - OHHTTPStubs
+    - Quick
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Cuckoo: 4625f7f54d9bb880123270e8969898d6c1d036b5
+  Nimble: 5f8a2fb6fa343a7242dfdd9d42f7267419d464b2
+  OHHTTPStubs: cb29d2a9d09a828ecb93349a2b0c64f99e0db89f
+  Quick: 6d9559f40647bc4d510103842ef2fdd882d753e2
+  SwiftLint: 4154893c73a4c52d6240195507eb7a3e3c64087e
+
+PODFILE CHECKSUM: 6567c2e7a42aed383614b9259f3207670aa9594c
+
+COCOAPODS: 1.9.3
